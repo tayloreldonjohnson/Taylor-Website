@@ -1,0 +1,26 @@
+<html>
+  <head>
+   <title>Taylor's Website | Home</title>
+   <link rel="stylesheet" href="style.css">
+  </head>
+  <body id="page1">
+      <header>
+          <nav>
+            <a href="index.html">Home</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="contact.html">Contact</a>
+          </nav>
+      </header>
+      <h1>About me</h1>
+      <img id="image" src="http://i.imgur.com/zvI5kGjl.jpg" width="500">
+      <p>I graduated from Arizona State University with a degree in Journalism and Mass Communications and have been working in PR for the past year. I'm excited for the next step towards my future.</p>
+      <h1>Why I Decided to Learn Programming</h1>
+      <p>I love to find answers and have always loved working with computers. I'm looking for a career as a Software Developer.</p>
+      <footer>
+        <a href="https://www.linkedin.com/in/tayloreldonjohnson/">LinkedIn</a>
+        <a href="https://github.com/tayloreldonjohnson">Github</a>
+        <a href="https://www.facebook.com/profile.php?id=520799754">Facebook</a>
+        <a href="https://www.instagram.com/gottabequickerthanthat/">Instagram</a>
+      </footer>
+  </body>
+</html>

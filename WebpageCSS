@@ -1,0 +1,71 @@
+#page1 {
+	background-color: #88AECF;
+	color: #192836;
+	font-family:"Trebuchet MS", Arial, Helvetica, san-serif;
+	height: 100%;
+}
+#page2 {
+  background-color: #192836;
+	color:orange;
+	font-family:"Trebuchet MS", Arial, Helvetica, san-serif;
+	height: 100%;
+}
+nav {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+	color: #88AECF;
+}
+
+a {
+	float:left;
+	display:block;
+	text-align: center;
+	border-right: 3px solid #88AECF;
+	padding: 0.5em;
+}
+a:hover {
+	background-color: #88AECF;
+	color: orange;
+}
+h1 {
+	text-align: center;
+}
+#image {
+	display: block;
+	margin: auto;
+}
+p {
+	text-align: center;
+}
+footer {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+	color: blue;
+	margin-top: 100px;
+}
+table {
+  float: left;
+  margin-top: 15px;
+  margin-left: 50px;
+}
+table a {
+	border: 3px solid white;
+	background-color: orange;
+}
+form {
+	border: 2px solid white;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: orange;
+	color: blue;
+}
+#mail {
+	border: 3px solid orange;
+	background-color: white;
+	margin-top: 15px;
+}

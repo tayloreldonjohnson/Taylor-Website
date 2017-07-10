@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "your message"
+
+Push the code on your laptop to the cloud
+git push origin master

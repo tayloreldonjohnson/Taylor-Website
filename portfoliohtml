@@ -1,0 +1,37 @@
+<html>
+  <head>
+   <title>Taylor's Website | Portfolio</title>
+   <link rel="stylesheet" href="style.css">
+  </head>
+  <body id="page1">
+  	  <header>
+  	  		<nav>
+  	  		   <a href="index.html">Home</a>
+  	  		   <a href="portfolio.html">Portfolio</a>
+  	  		   <a href="contact.html">Contact</a>
+  	  		</nav>
+  	  </header>
+  		<ul>
+  			<li>Portfolio Website
+  				<ul>
+  					<li>
+  					<p>This is the first website I created in Coding From Scratch using HTML, CSS and JavaScript</p>
+  					</li>
+  				</ul>
+  			</li>
+  		</ul>
+  		<textarea id="textBox"></textarea>
+  		<p id="row1"></p>
+  		<p id="row2"></p>
+  		<p id="row3"></p>
+  		<p id="row4"></p>
+  		<button onClick="myFunction()">Submit</button>
+  		<footer>
+        <a href="https://www.linkedin.com/in/tayloreldonjohnson/">LinkedIn</a>
+        <a href="https://github.com/tayloreldonjohnson">Github</a>
+        <a href="https://www.facebook.com/profile.php?id=520799754">Facebook</a>
+        <a href="https://www.instagram.com/gottabequickerthanthat/">Instagram</a>
+      </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
